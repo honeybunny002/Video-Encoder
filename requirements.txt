@@ -1,5 +1,5 @@
 pyrogram==2.0.66
-TgCrypto
+TgCrypto==1.2.3
 python-dotenv
 hachoir
 ffmpeg-python
